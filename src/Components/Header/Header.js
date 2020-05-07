@@ -14,16 +14,13 @@ function Header() {
             <div>
               <Nav>
                 <NavItem>
-                  <NavLink href="#">Link</NavLink>
+                  <NavLink href="/index">Home</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#">Link</NavLink>
+                  <NavLink href="/contact">Contact</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="#">Another Link</NavLink>
-                </NavItem>
-                <NavItem>
-                  <NavLink disabled href="#">Disabled Link</NavLink>
+                  <NavLink href="#">Portfolio</NavLink>
                 </NavItem>
               </Nav>
             </div>
