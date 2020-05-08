@@ -1,3 +1,13 @@
 .nav {
   float: right;
 }
+
+.linkedinLogo {
+  height: 32px; 
+  width: 44px; 
+  padding-right: 10px;
+}
+
+.Header {
+  padding-top: 2%;
+}
