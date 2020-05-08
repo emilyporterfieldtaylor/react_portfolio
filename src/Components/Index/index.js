@@ -9,7 +9,7 @@ function Index() {
         <Container>
           <Row>
             <Col md={6}>
-              <img src={japanSquare} alt="Emily in Japan" />
+              <img className="japanSquare" src={japanSquare} alt="Emily in Japan" />
             </Col>
             <Col md={6}>
             <p class="flow-text">This is a third attempt at a portfolio for the UT Full Stack coding Bootcamp. This

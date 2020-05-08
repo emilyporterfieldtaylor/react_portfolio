@@ -12,12 +12,12 @@ function Header() {
           <Col md={2}>
             <h3>Emily Taylor</h3>
           </Col>
-          <Col md={1}>
+          <Col md="auto">
             <a href="https://github.com/emilyporterfieldtaylor">
               <img src={githubLogo} alt="github" />
             </a>
           </Col>
-          <Col md={1}>
+          <Col md="auto">
             <a href="https://www.linkedin.com/in/emily-taylor-8333a6124/">
               <img className="linkedinLogo" src={linkedinLogo} alt="linkedin" />
             </a>
