@@ -26,7 +26,7 @@ function Header() {
             <div>
               <Nav>
                 <NavItem>
-                  <NavLink href="/index">Home</NavLink>
+                  <NavLink href="react_portfolio/index">Home</NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink href="/contact">Contact</NavLink>
