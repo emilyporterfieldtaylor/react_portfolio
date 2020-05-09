@@ -26,13 +26,13 @@ function Header() {
             <div>
               <Nav>
                 <NavItem>
-                  <NavLink href="react_portfolio/index">Home</NavLink>
+                  <NavLink href="/index">Home</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="react_portfolio/contact">Contact</NavLink>
+                  <NavLink href="/contact">Contact</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink href="react_portfolio/portfolio">Portfolio</NavLink>
+                  <NavLink href="/portfolio">Portfolio</NavLink>
                 </NavItem>
               </Nav>
             </div>
