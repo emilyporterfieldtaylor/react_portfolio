@@ -11,10 +11,9 @@ function App() {
     <Router>  
     <Header/>
     <Switch>
-    {/* this ensures that either / or home can be used to bring up homepage w/o breaking*/}
-    <Route exact path={["/", "/index"]}><Index /></Route>
-    <Route exact path={ "/contact"}><Contact /></Route>
-    <Route exact path={ "/portfolio"}><Portfolio /></Route>
+    <Route exact path={["/", "react_portfolio/index"]}><Index /></Route>
+    <Route exact path={ "react_portfolio/contact"}><Contact /></Route>
+    <Route exact path={ "react_portfolio/portfolio"}><Portfolio /></Route>
     </Switch>
   </Router>
   )

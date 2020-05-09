@@ -108,7 +108,7 @@ function Portfolio() {
                   Code Quiz
                 </CardTitle>
               </CardBody>
-              <CardImg width="100%" src={weatherImage} alt="Card image cap" />
+              <CardImg width="100%" src={codeQuizImage} alt="Card image cap" />
               <CardBody>
                 <CardLink href="https://emilyporterfieldtaylor.github.io/code_quiz/"><img src={githubLogo} alt="github" /></CardLink>
                 <a href="https://github.com/emilyporterfieldtaylor/code_quiz" className={"stretched-link"}></a>
