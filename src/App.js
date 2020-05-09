@@ -11,7 +11,7 @@ function App() {
     <Router>  
     <Header/>
     <Switch>
-    <Route exact path={["/", "/index"]}><Index /></Route>
+    <Route exact path={["/", "react_portfolio/index"]}><Index /></Route>
     <Route exact path={ "/contact"}><Contact /></Route>
     <Route exact path={ "/portfolio"}><Portfolio /></Route>
     </Switch>
